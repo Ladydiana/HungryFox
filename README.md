@@ -6,8 +6,8 @@ The assets have been designed by Frontendmaster's team.
 
 
 # Contents
-	- [Languages Used](#languages-used)
-	- [Requirements](#requirements)
+- [Languages Used](#languages-used)
+- [Requirements](#requirements)
 
 ----------------------------------------------
 # Languages Used:
