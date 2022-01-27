@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Ladydiana/HungryFox/issues"
   },
-  "homepage": "https://github.com/Ladydiana/HungryFox#readme"
+  "homepage": "https://github.com/Ladydiana/HungryFox#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
+  }
 }
