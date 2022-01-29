@@ -1,6 +1,6 @@
 # HungryFox
 
-This project is part of Frontendmaster's - Complete Front End exercises.
+This project is part of [Frontendmaster's - Complete Front End exercises](https://btholt.github.io/project-fox-game-site/).
 
 The assets have been designed by Frontendmaster's team.
 
