@@ -7,12 +7,19 @@ The assets have been designed by Frontendmaster's team.
 
 # Contents
 - [Languages Used](#languages-used)
+- [Plugins](#plugins)
 - [Requirements](#requirements)
 
 ----------------------------------------------
 # Languages Used:
 - Javascript
 - CSS
+
+# Plugins
+- Parcel    -> Bundler 
+- Prettier  -> Code formatting
+- ESLint    -> Linting
+- Jest      -> Testing
 
 # Requirements
 - The game starts in an initialized state. The user must press the center game to get started.
