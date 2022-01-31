@@ -25,5 +25,8 @@
   "homepage": "https://github.com/Ladydiana/HungryFox#readme",
   "devDependencies": {
     "parcel-bundler": "^1.12.5"
-  }
+  },
+	"browserslist": [
+    "last 2 Chrome versions"
+  ]
 }
