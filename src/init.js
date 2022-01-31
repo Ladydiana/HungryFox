@@ -1,8 +1,12 @@
+import gameState from "./gameState";
+
 const TICK_RATE = 3000;
 
-function tick() {
+
+/*function tick() {
 	console.log("tick", Date.now());
-}
+}*/
+
 
 // setInterval and setTimeout are not suitable as it isdifficult to get those times to line up well
 async function init() {
@@ -14,7 +18,8 @@ async function init() {
 
 		const now = Date.now();
 		if (nextTimeToTick <= now) {
-			tick();
+			//tick();
+			gameState.tick();
 			nextTimeToTick = now + TICK_RATE;
 		}
 		requestAnimationFrame(nextAnimationFrame);
@@ -22,5 +27,6 @@ async function init() {
 
 	nextAnimationFrame();
 }
+
 
 init();
